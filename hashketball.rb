@@ -179,4 +179,5 @@ def big_shoe_rebounds
   rebounds = 0 
   game_hash.each do |home_away, keys|
     keys[:players].each do |player|
-      size = 
+      size = player[:shoe]
+      
