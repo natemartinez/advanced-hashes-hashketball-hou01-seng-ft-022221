@@ -165,5 +165,6 @@ end
 end
 
 def player_stats(player_n)
-  game_hash.each do |
+  game_hash.each do |home_away, keys|
+    
 end
