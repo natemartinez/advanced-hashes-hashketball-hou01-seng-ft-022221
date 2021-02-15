@@ -166,5 +166,5 @@ end
 
 def player_stats(player_n)
   game_hash.each do |home_away, keys|
-    keys[]
+    keys[:players]
 end
