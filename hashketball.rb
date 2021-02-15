@@ -182,4 +182,4 @@ def big_shoe_rebounds
       size = player[:shoe]
       if size > biggest
         biggest = size 
-        rebounds = 
+        rebounds = player[:rebounds]
