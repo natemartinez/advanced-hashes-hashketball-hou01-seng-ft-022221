@@ -169,4 +169,6 @@ def player_stats(player_n)
     keys[:players].each do |player|
       if player[:player_name] == player_n
         return player
+      end
+      
 end
