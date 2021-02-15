@@ -175,3 +175,6 @@ def player_stats(player_n)
 end
 
 def big_shoe_rebounds 
+  biggest = 0 
+  rebounds = 0 
+  
